@@ -10,8 +10,7 @@ import AuthRoute from 'components/AuthRoute';
 import { PublicRoutes, AuthRoutes } from 'constants/routes';
 import Permissions from 'constants/permissions';
 
-// TODO: Prevent login / registration routes if authenticated
-function App () {
+function App() {
   return (
     <Router>
       <Switch>
