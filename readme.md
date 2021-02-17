@@ -1,6 +1,6 @@
 # Boilerplate for React/TS/XState/Chakra-UI
 
-My personal boilerplate for quickly setting up a chakra-ui project with state management and permission based routing. API-client/class & localstorage management included.
+My personal boilerplate for quickly setting up a chakra-ui project with state management and attribute based access control. API-client/class & localstorage management included.
 
 ## Comes with...
 
